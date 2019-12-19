@@ -1,0 +1,71 @@
+{
+    "name": "BIOBASE",
+    "description": "QIAGEN Bioinformatics software solutions and curated knowledge databases help you transform your raw NGS data into relevant, actionable findings.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1246-biobase.jpg",
+    "tags": [
+        "api provider",
+        "biology",
+        "biotechnology",
+        "have api",
+        "presentations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/biobase\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BIOBASE",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1246-biobase.jpg",
+            "humanURL": "http:\/\/www.biobase-international.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/biobase-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.biobase-international.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.biobase-international.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.biobase-international.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/biobase"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/qiagen"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/rdrr.io\/bioc\/Biobase\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Biobase"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/biobase"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/QIAGENBiox"
+        }
+    ]
+}
